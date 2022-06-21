@@ -1,14 +1,14 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  grid-area:Sl;
+  grid-area:SL;
   display: flex;
   flex-direction: column;
   align-items: center;
   background-color: rgb(32,34,37);
   padding: 11px 0;
 
-  min-height: 100vh;
+  max-height: 100vh;
   overflow-y: scroll;
 
   ::-webkit-scrollbar{

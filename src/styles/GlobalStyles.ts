@@ -37,5 +37,5 @@ html,body, #root{
  
     --link: #5d80d6;
  
-    --rocketseat: #6633cc;
+    --apex: #14142B;
   }`

@@ -15,9 +15,10 @@ cD = channel Data
 UL = Use List
 UI = user info
 */
-grid-template-areas:'Sl SN CI CI' 
-                    'Sl CL CD UL'
-                    'SL UI CD UL';
+grid-template-areas:
+'SL SN CI CI' 
+'SL CL CD UL'
+'SL UI CD UL';                  
 height: 100vh;
 
 `
