@@ -28,7 +28,7 @@ const ChannelData: React.FC = () => {
           date='21/06/2022'
           content={
             <>
-              <Mention>@Patryck</Mention>Playing  MISTÉRIOS DA MEIA NOITE
+              <Mention>@Patryck</Mention>, Playing  MISTÉRIOS DA MEIA NOITE
             </>
           } hasMention
           isBot />
